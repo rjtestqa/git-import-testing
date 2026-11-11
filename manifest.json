@@ -1,5 +1,5 @@
 {
-  "display_name": "QA Test Integration",
+  "display_name": "QA Git Test Integration via API",
   "description": "Test integration",
   "version": "1.0.0",
   "entry": "main.py",
